@@ -1,5 +1,5 @@
 
-🌍试看部分频道,#genre#
+🌍书海,#genre#
 天等台,http://219.159.147.195:9901/tsfile/live/1000_1.m3u8?key=txiptv
 崇左综合,http://219.159.147.195:9901/tsfile/live/1001_1.m3u8?key=txiptv
 广西卫视,http://219.159.147.195:9901/tsfile/live/1002_1.m3u8?key=txiptv
